@@ -2,12 +2,15 @@ Team 1 (Wizards of Seattle)
 
 1. Project Overview
 
-    Project Name: Great Outdoors
-    Project Description: An easy to use multilingual website that can share travel information with friends, family, and potential customers
-    Project Timeline: From 2/6/2025 to 3/17/2025
-    Project Goal: Make tourism in Washington accessible to people from different countries
+   Project Name: Great Outdoors
 
-2. Team Members
+   Project Description: An easy to use multilingual website that can share travel information with friends, family, and potential customers
+
+   Project Timeline: From 2/6/2025 to 3/17/2025
+
+   Project Goal: Make tourism in Washington accessible to people from different countries
+
+3. Team Members
 
     Name: Calvin Anderson
     Strengths: Good Communication, Good problem solving skills, Ability to explain issues plainly, Patience 
@@ -30,7 +33,7 @@ Team 1 (Wizards of Seattle)
     Role: Team Support 
 
 
-3. Core Values
+4. Core Values
 
     Value 1: Co-operation
     Value 2: Participation 
@@ -38,7 +41,7 @@ Team 1 (Wizards of Seattle)
     Value 4: Researching and Reporting  
 
 
-4. Group Norms
+5. Group Norms
 
     Communication: Discord group chat, through text or group call 
 
@@ -48,13 +51,13 @@ Team 1 (Wizards of Seattle)
 
     Feedback and Conflict Resolution: By using voting system and choosing a thing that is mostly agreed  
 
-5. Metrics of Success
+6. Metrics of Success
 
     Success Metric 1: Precision of the project as intended 
     Success Metric 2: Making the best decision about the project possible depending on the circumstances 
     Success Metric 3: Making the best performance possible 
 
-6. Roles and Responsibilities
+7. Roles and Responsibilities
 
     Role 1: Point Of Contact 
     Responsibilities: communicate with client (the professor) and team mates to discuss important pieces of information regarding project development 
@@ -73,20 +76,20 @@ Team 1 (Wizards of Seattle)
     Person(s) responsible: Raine Nash
 
 
-7. Standards of Quality
+8. Standards of Quality
 
     Quality Standard 1: Polishness (Making sure that there are less errors possible)
     Quality Standard 2: Solidity (Making the project decent if not perfect as intended) 
     Quality Standard 3: Delivering the best performance possible to the project 
 
-8. Milestones & Goals
+9. Milestones & Goals
 
     Goal 1: Complete and submit the project on time  
         Milestone 1: Discuss with the team and make sure that the project's quality is as good as possible  
     Goal 2: Launch the project
         Milestone 2: Together with the team, discuss, test and make sure that everything works as intended 
 
-9. User Story
+10. User Story
     
 As an international tourist, I want to find a website for visitors that supports my language so I can easily access information.
 
