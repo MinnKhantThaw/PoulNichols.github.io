@@ -20,6 +20,8 @@ Team 1 (Wizards of Seattle)
    
     Role: Point Of Contact 
 
+
+
     Name: Vadim Khakhanov
    
     Strengths: Moderately outgoing, Not prone to rage (patient enough), Have big experience in coding
@@ -28,6 +30,8 @@ Team 1 (Wizards of Seattle)
    
     Role: Head Coder
 
+
+
     Name: Minn Khant Thaw (Thomas)
    
     Strengths: Willing to participate and put effort in working together as a group
@@ -35,6 +39,8 @@ Team 1 (Wizards of Seattle)
     Weaknesses: Lack concentration in zoom class (Will try to fix it)
    
     Role: Reporter 
+
+
 
     Name: Raine Nash
    
@@ -82,17 +88,23 @@ Team 1 (Wizards of Seattle)
     
     Person(s) responsible: Calvin Anderson 
 
+
+
     Role 2: Coder
     
     Responsibilities: Helping teammates with coding and sharing knowledge
     
     Person(s) responsible: Vadim Khakhanov
 
+
+
     Role 3: Reporter
     
     Responsibilities: Actively communicating with the team, working on the project and reporting to the team
     
     Person(s) responsible: Minn Khant Thaw (Thomas) 
+
+
 
     Role 4: Team Support
     
